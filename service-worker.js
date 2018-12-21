@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/gather.tingyao.io/precache-manifest.352537e643f2cd2faa7d6f723296045e.js"
+  "/gather.tingyao.io/precache-manifest.096779c179267fe15036024e28404a99.js"
 );
 
 workbox.clientsClaim();
